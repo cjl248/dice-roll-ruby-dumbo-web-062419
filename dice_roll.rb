@@ -5,6 +5,5 @@
 def roll
   # code goes here
   number = Random.new.rand(6)
-  # binding.pry
   number
 end
