@@ -7,4 +7,5 @@ def roll
   number = Random.new.rand(6)
   if number >= 1
     number
+  else 
 end
