@@ -5,6 +5,5 @@
 def roll
   # code goes here
   number = Random.new.rand(6)
-  if number >= 1
-    number
+  number
 end
