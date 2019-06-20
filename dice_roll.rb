@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  number = rand()
+  number = rand(1..6)
   number
 end
